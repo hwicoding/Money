@@ -25,3 +25,11 @@ doc/api/
 
 .flutter-plugins
 .flutter-plugins-dependencies
+money_app/windows
+money_app/linux
+money_app/macos
+money_app/web
+money_app/test
+money_app/.metadata
+money_app/android
+money_app/ios
